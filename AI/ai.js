@@ -1,4 +1,4 @@
-const gemini_api_key=Your_Gemini_API_key;
+const gemini_api_key=Insert_your_own_Gemini_API_key;
 const input=document.getElementById("user-input");
 const button=document.getElementById("send-button");
 const default_header=document.getElementById("header");
